@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
+  <script src="https://unpkg.com/feather-icons"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="container">
+    <div class="page-header">
+        <div class="logo">
+            <a href="#"></a>
+        </div>
+        
+        <ul>
+            <li><a href="index.html"  class="active" style="--navAni:1">Home</a></li>
+            <li><a href="#m" style="--navAni:2">contact</a></li>
+            <li><a href="#s" style="--navAni:2">social</a></li>
+            <li><a href="#n" style="--navAni:2">Awards</a></li>
+            >
+        </ul>
+    </div>
+</header>
+  <div class="container">
+    <div class="profile">
+      <div class="profile_container">
+        <div class="profile_profileImg">
+          <img src="images\profile .jpg" alt="prathamvernekar">
+        </div>
+        <div>
+          <h1 class="profile_name">
+            <span class="profile_name_firstName">Pratham</span>
+            <span class="profile_name_lastName">vernekar</span>
+          </h1>
+          <p class="profile_title">Software Developer</p>
+          <p class="description profile_description">
+            I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition
+          </p>
+         
+        </div>
+      </div>
+    </div>
+    <div class="group-1">
+      <div class="skills">
+        <h3 class="title">Expertise</h3>
+        <ol class="skills_list description">
+          <li>JavaScript</li>
+          <li>PHP & Wordpress</li>
+          <li>HTML CSS</li>
+          <li>React JS</li>
+          <li>MERN STACK</li>
+        </ol>
+      </div>
+     
+
+      <div class="edu">
+        <h3 class="title">Education</h3>
+        <div class="edu_item">
+          <p class="item_preTitle">2023-2027</p>
+          <h4 class="item_title">Btech in CSE</h4>
+          <p class="item_subtitle">
+            RV University
+          </p>
+        </div>
+        <div class="edu_item">
+          <p class="item_preTitle">2022-2022</p>
+          <h4 class="item_title">PUC </h4>
+          <p class="item_subtitle">
+            expert pu college 
+          </p>
+        </div>
+      </div>
+
+      <div class="certification">
+        <h3 class="title">certification</h3>
+        <div class="certification_item">
+          <p class="item_preTitle">2026</p>
+          <h4 class="item_title">Frontend Developer</h4>
+          <p class="description">
+            Advanced Frontend Architecture: Developed a strong foundation in architecting scalable frontend applications, understanding the principles of modular design and component-based architecture.<br>
+
+Responsive Web Design: Mastered the art of creating responsive layouts and ensuring a consistent user experience across various devices and screen sizes.<br>
+
+Single Page Application (SPA) Development: Acquired skills in building SPAs using cutting-edge frameworks, focusing on optimizing performance and enhancing user interactivity.<br>
+        </div>
+      </div>
+    </div>
+    <div class="group-2">
+      <div class="exp">
+        <h3 class="title">Experience</h3>
+        <div class="exp_item">
+          <p class="item_preTitle">2027 - present</p>
+          <h4 class="item_title">google LTD.</h4>
+          <p class="item_subtitle">Frontend Developer</p>
+          <p class=" description">
+            Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.  
+          </p>
+        </div>
+        <div class="exp_item">
+          <p class="item_preTitle">2026-2027</p>
+          <h4 class="item_title">meta Ltd.</h4>
+          <p class="item_subtitle">Frontend Developer</p>
+          <p class="description">
+            Enthusiastic and results-driven Frontend Developer with a passion for creating dynamic and visually appealing user interfaces. Adept at translating design concepts into responsive and intuitive web applications. With a keen eye for detail and a commitment to delivering high-quality user experiences, I thrive in collaborative environments where innovation and creativity are valued.
+            magna aliqua. Ut enim ad minim veniam,
+          </p>
+        </div>
+      </div>
+      <div class="awards">
+        <section id="n"></section>
+        <h3 class="title">Awards</h3>
+        <div class="awards_item">
+          <p class="item_preTitle">2027</p>
+          <h4 class="item_title">google LTD.</h4>
+          <p class=" description">
+            Google Analytics Certified Developer<br>
+            Mobile Web Specialist - Google Certification<br>
+            1st Place - RV University  - Emerging Tech Competition 2023<br>
+            1st Place - RV University  - Adobe Creative Jam 2024 (UI Design Category)<br>
+            2nd Place - RV University  - Emerging Tech Competition 2025<br>
+            1st Place - James Buchanan High School - Hackathon 2021<br>
+            3rd Place - James Buchanan High School - Hackathon 2022<br>
+          </p>
+        </div>
+        
+         
+        </div>
+      </section>
+      </div>
+
+      <div class="interest">
+        <h3 class="title">Interest</h3>
+        <div class="interest_items">
+          <div class="interest_item">
+            <i data-feather="music"></i>
+            <span>Music</span>
+          </div>
+          <div class="interest_item">
+            <i data-feather="book"></i>
+            <span>Books</span>
+          </div>
+          <div class="interest_item">
+            <i data-feather="map"></i>
+            <span>Travel</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <hr>
+    <div class="group-3">
+      <div class="contact">
+        <section id="m">
+        <h3 class="title">Contact</h3>
+        <div class="contact_info">
+          <p class="description">
+            Bangalore ,India
+          </p>
+          <p class="description">
+            +91 ** **** ****
+          </p>
+          <p class="description">
+            prathamvernekar@gmail.com
+          </p>
+        </div>
+      </section>
+      </div>
+      <div class="social">
+        <section id="s">
+        <h3 class="title">Socials</h3>
+        <div class="social_items">
+          <a href="https://github.com/prv05" target="_b" class="social_item">
+            <i data-feather="github"></i>
+            <span>prv005</span>
+          </a>
+          <a href="https://twitter.com/Prathamrv05" target="_blank" class="social_item">
+            <i data-feather="twitter"></i>
+            <span>/pratham RV</span>
+          </a>
+          <a href="https://www.linkedin.com/in/pratham-vernekar-a3b2b32a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" class="social_item">
+            <i data-feather="linkedin"></i>
+            <span>/Pratham Rajesh Vernekar</span>
+          </a>
+        </div>
+      </section>
+      </div>
+    </div>
+  </div>
+  <script>
+    feather.replace()
+  </script>
+</body>
+
+</html>
